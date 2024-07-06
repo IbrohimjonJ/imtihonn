@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* html {
+  margin: 0;
+  padding: 0;
+  background-image: url(./assets/kitchen.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: -1;
+}  */
+
+/* .main{
+  background-image: url(./assets/kitchen.jpg);
+} */
+
+.images{
+background: transparent;
+}
+.found{
+  margin-left: 180px;
+}
+.details_section{
+  width: 800px;
+  height: 300px;
+  border-radius: 10px;
+}
